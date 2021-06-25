@@ -1,0 +1,35 @@
+ul li{
+    display:inline-block;
+    background:black;
+    color:white;
+    padding:20px;
+    margin:5px;
+    font-size:20px;
+    border:2px solid rgb(85, 165, 134);
+    /* inline elements = margin,padding does not work */
+}
+ul{
+    text-align:right;
+    
+    
+}
+a{
+    text-align:center;
+    display:inline-block;
+    color:rgb(0, 204, 255);
+    font-size:30px;
+    padding:20px;
+    border:2px solid black;
+    margin-top:20px;
+    text-decoration:none;
+    margin-left:45%;
+}
+div, p{
+         font-size:30px;
+         color:black;
+         border:2px solid rgb(186, 134, 195);
+}
+h2{
+    text-align:center;
+    color:rgb(67, 73, 71)
+}
